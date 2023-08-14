@@ -1,10 +1,3 @@
-[![Netlify badge](https://api.netlify.com/api/v1/badges/470e52d0-4d03-4935-b493-76c00166a3da/deploy-status)](https://rickymormor.engineer/)
-# MY PERSONAL PORTFOLIO
-
-## Click on the badge below to see the deployed version of the site.
-[![Netlify badge](https://api.netlify.com/api/v1/badges/470e52d0-4d03-4935-b493-76c00166a3da/deploy-status)](https://rickymormor.engineer/)
-
-![screenshot](./src/assets/images/CPT2207081821-720x354.gif)
 
 ## Built With
 
@@ -67,20 +60,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Author
-
-👤 **Ricky Mormor**
-
-- GitHub: [@cwaku](https://github.com/cwaku)
-- LinkedIn: [Ricky Mormor](www.linkedin.com/in/ricky-mormor)
-- Instagram: [@rickymormor](https://instagram.com/rickymormor)
-- Twitter: [@rickymormor](https://twitter.com/rickymormor)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Kindly have a read at the [CONTRIBUTING.md](https://github.com/cwaku/portfolio/blob/develop/CONTRIBUTING.md)
-
-Feel free to check the [issues page](https://github.com/cwaku/portfolio/issues).
 
 ## Show your support
 
