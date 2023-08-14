@@ -20,7 +20,7 @@ To get a local copy up and running follow these simple example steps.
 - Code Editor
 ### Setup
 
-- Clone repository using this command in terminal ` git clone https://github.com/cwaku/portfolio.git`
+- Clone repository using this command in terminal ` git clone https://github.com/astrohunter62/react-portfolio.git`
 - Change directory to the cloned repository `cd portfolio`
 - Install dependencies using `npm install`
 - run `npm start`
